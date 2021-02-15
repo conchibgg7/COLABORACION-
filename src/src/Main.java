@@ -9,7 +9,7 @@ public class Main {
     }
     
     public void ivansuma(){
-        
+        System.out.println("YA TERMINÉ LA SUMA");
     }
     
     public void conchiresta(){
